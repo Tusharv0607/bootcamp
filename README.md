@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Intelligent Recruitment System for Candidate Profile Analysis
 
 A simple Streamlit app template for you to modify!
 
